@@ -2,6 +2,8 @@
 
 An application that spellchecks a file by comparing words from a text file to be spell checked to a dictionary loaded into memory. It then returns the misspelled words it encounters in a list, then ends with the count of words misspelled, words in the dictionary, words in the text being spell checked, and time spent running each function. A dictionary and sample text files to be spell-checked are provided.
 
+Built using C, Hash tables, Hash functions, and Linked lists.
+
 ![screenshot](screenshot.png)
 
 ## Compiling
